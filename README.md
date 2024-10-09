@@ -2,7 +2,7 @@
 
 This repository contains the code and analysis for forecasting U.S. electric vehicle (EV) sales using various time series and multivariate forecasting techniques. The project explores a variety of predictive models to capture both short- and long-term trends in the rapidly growing EV market.
 
-## Project Overview
+### Project Overview
 
 The primary objective of this project is to predict future EV sales in the United States using a combination of traditional time series models and advanced machine learning techniques. We focus on several key factors influencing EV sales, including the cost of owning petrol cars, petrol prices, historical sales from leading EV companies, the number of drivers, energy prices, and availability of EV charging spots.
 
