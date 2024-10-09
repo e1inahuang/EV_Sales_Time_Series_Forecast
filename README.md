@@ -34,3 +34,7 @@ The model considers a variety of factors impacting EV sales:
 - **Uber/Lyft Driver Trends**
 - **Energy Prices**
 - **Number of Charging Spots for EV Cars**
+
+### Conclusion
+
+In this project, we compared univariate models with multivariate models. The multivariate models outperformed ARIMA in terms of prediction accuracy and generalization ability. Additionally, they were more effective in addressing overfitting issues that ARIMA tends to face. Overall, multivariate models provide a more robust approach to forecasting EV sales compared to univariate methods.
