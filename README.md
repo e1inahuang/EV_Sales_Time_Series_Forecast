@@ -8,7 +8,7 @@ The primary objective of this project is to predict future EV sales in the Unite
 
 ### Models Implemented
 
-1. **Benchmark Models: Exponential Smoothing (ETS) and ARIMA (AutoRegressive Integrated Moving Average)**
+1. **Benchmark Univariate Models: Exponential Smoothing (ETS) and ARIMA (AutoRegressive Integrated Moving Average)**
    - Simple, Double, and Triple Exponential Smoothing models were used to capture seasonality, trend, and level components in the time series.
    - We employed ARIMA models to handle autocorrelation and non-stationarity in the time series data.
 
