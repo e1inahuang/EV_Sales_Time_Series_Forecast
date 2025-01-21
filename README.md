@@ -30,7 +30,7 @@ The model considers a variety of factors impacting EV sales:
 - **Cost of Owning Petrol Cars**
 - **Petrol Prices**
 - **Past Sales Data of Leading EV Companies**: Tesla, Volkswagen, Ford, etc.
-- **Number of Drivers in Pennsylvania**
+- **Number of Drivers**
 - **Uber/Lyft Driver Trends**
 - **Energy Prices**
 - **Number of Charging Spots for EV Cars**
